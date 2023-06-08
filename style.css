@@ -14,10 +14,20 @@ a:visited{
 .container{
     display: flex;
     flex-direction: column;
+    justify-self: center;
 }
+
 .title{
     text-align: center;
 }
+
+.cyan{
+    color: cyan;
+}
+.pink{
+    color: pink;
+}
+
 .picture{
     width: 500px;
     align-self: center;
